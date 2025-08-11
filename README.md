@@ -10,9 +10,8 @@ Siempre buscando mejorar y aprender nuevas tecnologías
 
 ## 🛠️ Habilidades
 - **Programación:** Python, Java, C/C++
-- **Desarrollo Web:** HTML, CSS, JavaScript
 - **Hardware:** Arduino & ESP32
-- **Herramientas de Diseño:** AutoCAD, SolidWorks, Figma
+- **Herramientas de Diseño:** AutoCAD & SketchUp
 
 ---
 
