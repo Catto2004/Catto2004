@@ -9,7 +9,7 @@ Siempre buscando mejorar y aprender nuevas tecnologías
 ---
 
 ## 🛠️ Habilidades
-- **Programación:** Python, Java, C/C++
+- **Programación:** Python, C/C++, Java, PostgreSQL. 
 - **Hardware:** Arduino & ESP32
 - **Herramientas de Diseño:** AutoCAD & SketchUp
 
