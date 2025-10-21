@@ -1,9 +1,9 @@
 # Hola, soy Juan Diego Ruiz B.
 
 🎓 **Estudiante de Ingeniería de Sistemas y Computación** en la *Univesidad Tecnologica de Pereira*  
-Apasionado por el **Desarrollo de Software**, el **Diseño de Hardware** y la **Innovación Tecnológica**  
+Apasionado por el **Diseño de Hardware** y la **Innovación Tecnológica**  
 Experiencia en **Dibujo Arquitectónico** y **Diseño CAD** adquirida en mi trabajo en Concava  
-Actualmente aprendiendo: Sistemas Embebidos y Desarrollo Web  
+Actualmente aprendiendo: Sistemas Embebidos  
 Siempre buscando mejorar y aprender nuevas tecnologías
 
 ---
