@@ -1,4 +1,4 @@
-# Hola, soy Juan Diego Ruiz B.
+# Hola, soy Juan Diego.
 
 🎓 **Estudiante de Ingeniería de Sistemas y Computación** en la *Univesidad Tecnologica de Pereira*  
 Apasionado por el **Diseño de Hardware** y la **Innovación Tecnológica**  
