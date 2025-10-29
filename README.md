@@ -15,9 +15,4 @@ Siempre buscando mejorar y aprender nuevas tecnologías
 
 ---
 
-## 📫 Contáctame
-- LinkedIn: [linkedin.com/in/jd-rb](https://www.linkedin.com/in/jd-rb/)
-- GitHub: [github.com/Catto2004](https://github.com/Catto2004)
----
-
 *"El aprendizaje nunca agota la mente." – Leonardo da Vinci*
