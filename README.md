@@ -1,4 +1,4 @@
-# Hola, soy Juan Diego.
+# Hola, soy Juan B.
 
 🎓 **Estudiante de Ingeniería de Sistemas y Computación**
 Apasionado por el **Diseño de Hardware** y la **Innovación Tecnológica**  
