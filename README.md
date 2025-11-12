@@ -1,6 +1,6 @@
 # Hola, soy Juan Diego.
 
-🎓 **Estudiante de Ingeniería de Sistemas y Computación** en la *Univesidad Tecnologica de Pereira*  
+🎓 **Estudiante de Ingeniería de Sistemas y Computación**
 Apasionado por el **Diseño de Hardware** y la **Innovación Tecnológica**  
 Experiencia en **Dibujo Arquitectónico** y **Diseño CAD** adquirida en mi trabajo en Concava  
 Actualmente aprendiendo: Sistemas Embebidos  
